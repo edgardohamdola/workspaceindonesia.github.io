@@ -870,44 +870,53 @@
           "subtitle": "Apa kata dunia ?!",
           "testimonial": [
             {
-              "authorName": "Abanoub S.",
+              "authorName": "Billy",
               "authorBio": "User",
               "text": "<p>“Untuk kalian yang butuh training karyawan, kalian bisa mempercayakannya dengan WSID”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/image-.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
             {
-              "authorName": "Suffian A.",
+              "authorName": "Bagus",
               "authorBio": "User",
               "text": "<p>“Tempat IT training yang recommended !”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/bgs.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             },
             {
-              "authorName": "Jhollman C.",
+              "authorName": "Arga",
               "authorBio": "User",
               "text": "<p>“Pengajarnya asik, cara penyampaian yang bagus. saya diajari juga cara untuk public speaking. thanks WSID !”</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/arg.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
                 }
               }
             }
